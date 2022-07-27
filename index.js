@@ -2,7 +2,7 @@ var contadorErro = 1
 var ContadorAcerto = 1
 
 var senhaPrincipal = Math.floor(1* Math.random() * 100);
-console.log(senhaPrincipal) // aqui onde revela a senha 
+//console.log(senhaPrincipal) // aqui onde revela a senha 
 
 function compararSenha(){
    senhaCorreta = 1
